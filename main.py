@@ -1,4 +1,4 @@
-
+##==========[PHOTRON:START]==========##
 
   #----------importing time modules----------#
 import time
@@ -19,3 +19,5 @@ for part_sec in range(secs-1,-1,-1):
   
   #----------final print statement----------#
 print('\n\nTime\'s up!')
+
+##==========[PHOTRON:END]==========##
